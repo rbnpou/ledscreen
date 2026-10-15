@@ -62,8 +62,7 @@ Asegurate de tener instaladas las siguientes librerías desde el gestor de Ardui
 
   * **MD_Parola (de MajicDesigns)**
   * **MD_MAX72XX (de MajicDesigns)**
-
-ArduinoJson (para manejar el intercambio de datos con la interfaz web)
+  * **ArduinoJson (para manejar el intercambio de datos con la interfaz web)**
 
 Abrí ESP8266_Matrix_Controller.ino en el IDE de Arduino.
 
@@ -71,11 +70,9 @@ Seleccioná la placa ESP8266 y compilá/subí el código.
 
 Configuración:
 
-Busca la red Wi-Fi **lescreen** desde el celular o computadora.
-
-Conectate y se abrirá el portal cautivo automáticamente. O ingresá a http://192.168.4.1 en un navegador.
-
-Escribí tus frases, seleccioná el grupo que querés activar, y pulsá GUARDAR. ¡Listo!
+  * **Busca la red Wi-Fi **lescreen** desde el celular o computadora.**
+  * **Conectate y se abrirá el portal cautivo automáticamente. O ingresá a http://192.168.4.1 en un navegador.**
+  * **Escribí tus frases, seleccioná el grupo que querés activar, y pulsá GUARDAR. ¡Listo!**
 
 ## 💡 Futuras Mejoras (Pull Requests bienvenidos)
 
