@@ -9,7 +9,7 @@ Diseñado bajo la premisa de que **un letrero de texto no debería requerir un r
 
 ## 🎨 Breve historia
 
-Lo vi durante la Eko Party 2026 y pensé "que buena idea". Y le sumé algunas características. Pensado originalmente como llavero o letrero portátil para una mochila o bandolera (inclusive para tener sobre el escritorio). Quizás en un futuro podría conectarlo a internet, visualizar el pronóstico o sabér cuando caen los mercados...
+Lo vi durante la Eko Party 2026 en la mesa de comunidad de Mesh Argentina (creo que le pertenecía a v01d) y pensé "que buena idea". Traté de hacer algo que funcione igual y sumarle algunas características. Pensado originalmente como llavero o letrero portátil para una mochila o bandolera (inclusive para tener sobre el escritorio). Quizás en un futuro podría conectarlo a internet, visualizar el pronóstico o sabér cuando caen los mercados...
 
 ---
 
@@ -79,13 +79,10 @@ Configuración:
 
 ## 💡 Futuras Mejoras (Pull Requests bienvenidos)
 
-¿Control de brillo desde la web? Posible.
-
-¿Integrar un sensor de luz ambiental para no quedar ciego de noche? Tal vez.
-
-¿Giroscopio para detectar la orientación y poder visualizar frases en vertical? Probablemente.
-
-¿Conectarlo a una inteligencia artificial para que el esp8266 reflexione sobre el sentido de la vida? Naa.
+  * **¿Control de brillo desde la web? Posible.**
+  * **¿Integrar un sensor de luz ambiental para no quedar ciego de noche? Tal vez.**
+  * **¿Giroscopio para detectar la orientación y poder visualizar frases en vertical? Probablemente.**
+  * **¿Conectarlo a una inteligencia artificial para que el esp8266 reflexione sobre el sentido de la vida? Naa.**
 
 Mantengamos las cosas simples y locales.
 
