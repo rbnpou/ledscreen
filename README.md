@@ -1,6 +1,8 @@
-# 🛑 LED screen | Frases a donde vayas
+# 🛑 LED screen | "Tus frases, tus problemas."
 
-Un sistema de matriz LED modular y completamente **offline** basado en un ESP8266 y módulos MAX7219 (configuración de 4 módulos en cascada, resolución de 32x8). 
+![Imagen de los modulos interconectados del proyecto ledscreen by @rbnpou]([ledscreen-1-rbnpou.jpg](https://raw.githubusercontent.com/rbnpou/ledscreen/refs/heads/main/ledscreen-1-rbnpou.jpg))
+
+Sistema de matriz LED modular y completamente **offline** basado en un ESP8266 y módulos MAX7219 (configuración de 4 módulos en cascada, resolución de 32x8). 
 
 Diseñado bajo la premisa de que **un letrero de texto no debería requerir un registro de usuario, un waiver de privacidad, una suscripción mensual, un framework de 2GB de Node.js ni una aplicación móvil con anuncios** solo para mostrar un mensajes en tu escritorio o llavero.
 
