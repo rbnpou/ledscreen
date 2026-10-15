@@ -4,7 +4,7 @@ Un sistema de matriz LED modular y completamente **offline** basado en un ESP826
 
 Diseñado bajo la premisa de que **un letrero de texto no debería requerir un registro de usuario, un waiver de privacidad, una suscripción mensual, un framework de 2GB de Node.js ni una aplicación móvil con anuncios** solo para mostrar un mensajes en tu escritorio o llavero.
 
-## Breve historia
+## 🎨 Breve historia
 
 Lo vi durante la Eko Party 2026 y pensé "que buena idea". Y le sumé algunas características. Pensado originalmente como llavero o letrero portátil para una mochila o bandolera (inclusive para tener sobre el escritorio). Quizás en un futuro podría conectarlo a internet, visualizar el pronóstico o sabér cuando caen los mercados...
 
