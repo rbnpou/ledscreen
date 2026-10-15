@@ -1,6 +1,7 @@
 # 🛑 LED screen | "Tus frases, tus problemas."
 
-![Imagen de los modulos interconectados del proyecto ledscreen by @rbnpou]([ledscreen-1-rbnpou.jpg](https://raw.githubusercontent.com/rbnpou/ledscreen/refs/heads/main/ledscreen-1-rbnpou.jpg))
+<img width="3868" height="2901" alt="Imagen de los modulos interconectados del proyecto ledscreen by @rbnpou" src="https://github.com/user-attachments/assets/bcac89a9-c270-4b54-8ab8-dc38d4e40d19" />
+
 
 Sistema de matriz LED modular y completamente **offline** basado en un ESP8266 y módulos MAX7219 (configuración de 4 módulos en cascada, resolución de 32x8). 
 
