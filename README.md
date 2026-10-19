@@ -5,7 +5,7 @@
 
 Sistema de matriz LED modular y completamente **offline** basado en un ESP8266 y módulos MAX7219 (configuración de 4 módulos en cascada, resolución de 32x8). 
 
-Diseñado bajo la premisa de que **un letrero de texto no debería requerir un registro de usuario, un waiver de privacidad, una suscripción mensual, un framework de 2GB de Node.js ni una aplicación móvil con anuncios** solo para mostrar un mensajes en tu escritorio o llavero.
+Diseñado bajo la premisa de que **un letrero de texto no debería requerir un registro de usuario, un waiver de privacidad, una suscripción mensual, un framework de 2GB de Node.js ni una aplicación móvil con anuncios** solo para mostrar un mensajes en tu escritorio, llavero, bandolera, mochila y/o donde se te ocurra.
 
 ## 🎨 Breve historia
 
@@ -79,15 +79,13 @@ Configuración:
 
 ## 💡 Futuras Mejoras (Pull Requests bienvenidos)
 
-  * **¿Control de brillo desde la web? Posible.**
-  * **¿Integrar un sensor de luz ambiental para no quedar ciego de noche? Tal vez.**
-  * **¿Giroscopio para detectar la orientación y poder visualizar frases en vertical? Probablemente.**
-  * **¿Conectarlo a una inteligencia artificial para que el esp8266 reflexione sobre el sentido de la vida? Naa.**
-
-Mantengamos las cosas simples y locales.
-
-... por ahora o hasta que me aburra.
-
+  * **Control de brillo desde la web.**
+  * **Adición de clave para la administración web.**
+  * **Apagado automático del WIFI luego de algún tiempo para evitar consumos innecesarios.**
+  * **Integrar un sensor de luz ambiental para no quedar ciego de noche.**
+  * **Giroscopio para detectar orientación y poder visualizar frases en vertical.**
+  * **Selección de distintos efectos de transición vía web.**
+  
 Gracias.
 
 **@rbnpou**
